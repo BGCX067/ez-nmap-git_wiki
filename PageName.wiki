@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 #labels Phase-Deploy
 
-= Introduction =
+= HOW TO Launch Mac and Linux =
 
 Add your content here.
 HOW TO LAUNCH THE PROGRAM:
@@ -14,6 +14,8 @@ type:
 
 cd Desktop python ez_nmap_v0.5.4.py
 
+
+= HOW TO Launch Windows =
 Windows:
 
 If you are on Windows its a little harder.
